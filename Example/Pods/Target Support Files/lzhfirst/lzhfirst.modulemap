@@ -1,0 +1,6 @@
+framework module lzhfirst {
+  umbrella header "lzhfirst-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - lzhfirst (0.1.0)
+
+DEPENDENCIES:
+  - lzhfirst (from `../`)
+
+EXTERNAL SOURCES:
+  lzhfirst:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lzhfirst: 4a507bf7c86c9f282df771a5858c46cdc00a11af
+
+PODFILE CHECKSUM: 278c66ca43fc00e73b26faf9f7cd22080521c3ba
+
+COCOAPODS: 1.5.3
