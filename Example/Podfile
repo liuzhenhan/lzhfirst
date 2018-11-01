@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'lzhfirst_Example' do
+  pod 'lzhfirst', :path => '../'
+
+  target 'lzhfirst_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
